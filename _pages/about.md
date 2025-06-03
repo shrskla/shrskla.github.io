@@ -1,14 +1,11 @@
 ---
+layout: page
 title: "About Me"
 permalink: /about/
 ---
 
-## About Me
+I am a PhD candidate in Global Health at the Technical University of Munich (TUM), Germany, with a background in biotechnology, liberal arts, and global health. My research focuses on gender-transformative interventions, adolescent health, and violence prevention in low- and middle-income countries (LMICs).
 
-I am a PhD candidate in Global Health at the Technical University of Munich. My research focuses on gender transformative interventions and adolescent maternal and child health in low- and middle-income countries.
+Over the past years, I’ve collaborated on multi-country projects related to gender-based violence, child marriage, and maternal and child health, with research fieldwork experience in India, Zambia, Tanzania, and Nepal.
 
-## Research Interests
-
-- Gender and health equity
-- Adolescent reproductive health
-- Mixed-methods research
+Currently, I am a Research Associate at Ludwig Maximilians Universität München (LMU), working on projects focused on intimate partner violence and adolescent well-being.

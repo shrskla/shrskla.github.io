@@ -1,36 +1,16 @@
 ---
-layout: archive
+layout: page
 title: "Publications"
 permalink: /publications/
-author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+### Peer-Reviewed Publications
 
-{% include base_path %}
+- Shukla, S., et al. (2025). *How do gender transformative interventions reduce adolescent pregnancy...?* **Journal of Global Health**, 15:04102.  
+- Shukla, S., et al. (2024). *Women’s Informal Group Participation and Intimate Partner Violence...* **Social Science and Medicine**, 117513.  
+- Shukla, S., et al. (2023). *Factors associated with adolescent pregnancy...* **Sexual and Reproductive Health Matters**, 31(1):2249284.  
+... *(continue listing others in reverse chronological order)*
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
-
-
-
+### Under Review / In Preparation
+- *Pedalling Progress?* (Social Science and Medicine - under review)
+- *The Interplay of Economic Shocks...* (World Development - under review)
